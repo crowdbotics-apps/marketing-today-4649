@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT marketing_today_4649.wsgi:application
